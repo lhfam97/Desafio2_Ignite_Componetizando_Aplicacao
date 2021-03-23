@@ -2,7 +2,7 @@ import { Icon } from "../Icon";
 
 import { IButtonProps } from "./@interfaces";
 
-import "../styles/button.scss";
+import "../../styles/button.scss";
 
 export function Button({ iconName, title, selected, ...rest }: IButtonProps) {
   return (
