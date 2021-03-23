@@ -1,3 +1,1 @@
-export function Content() {
-  // Complete aqui
-}
+export function Content() {}
